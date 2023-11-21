@@ -11,14 +11,11 @@ In today's digital age, the explosion of electronic data across the internet and
 Within this context, Goodreads serves as a robust platform, hosting a diverse database that includes books, annotations, quotes, and user-generated reviews.  Beyond its conventional role as a space for book reviews and recommendations, Goodreads operates as a nexus where users actively contribute to User-Generated Content (UCG), which refers to individuals contributing to and shaping the content of digital platforms, influencing their overall experience.
 
 
-
 Research Question
 
 How does User-Generated Content contribute to shaping the interactions and experiences of users with digital literature on Goodreads platform?
 
 The research will effectively answer the research question by analyzing user-generated content on Goodreads, specifically focusing on reviews and recommendations related to books.
-
-
 
 
 Data Requirements
